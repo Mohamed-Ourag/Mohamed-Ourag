@@ -1,7 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ourag</h1>
-<h3 align="center">I'm a third-year Computer Science Engineering student  seeking a 4-6 month graduation internship starting February 2024. My focus is on DevOps, DevSecOps, AI and cybersecurity. </h3>
+<h1 align="center">Hi 👋, I'm Mohamed </h1>
+<h3 align="center" color="red">I'm a third-year Computer Science Engineering student  seeking a 4-6 month graduation internship starting February 2024. My focus is on DevOps, DevSecOps, AI and cybersecurity. </h3>
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=0000FF&center=true&vCenter=true&lines=DevSecOps+Enginner;DevOps;Python+for+life">
+    <h3 align="center">Love Python, love Problem Solving  and share my knowledges.</h3>
+    <h3 align="center">I'm a computer Engineer Student</h3>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- Social network -->
+<p style="margin-top: 50px;">
+    <p align="left">
+        <a href="https://twitter.com/mohamed_ourag" target="blank"><img src="https://img.shields.io/twitter/follow/Mohamed ourag?logo=twitter&style=for-the-badge" alt="code__oz" /></a>
+    </p>
+    <p align="left">
+        <a href="https://www.youtube.com/channel/UCwP3RoD3av0QXsDnoIkCang" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCC675U1ZUPFASsK9-FjawtA?style=social" alt="code__oz" /></a>
+    </p>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ourag-4901311b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ourag-4901311b6/" height="30" width="40" /></a>
 <a href="https://kaggle.com/medourag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="medourag" height="30" width="40" /></a>
